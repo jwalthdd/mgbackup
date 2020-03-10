@@ -19,5 +19,5 @@ This utility use the package [https://github.com/t3rm1n4l/go-mega](https://githu
 ### TODO
   - Use an unlimited number of accounts.
   - List remote dumps available.
-  - Download and upload progress bar.
+  - Download and upload progress bars.
   - Log the activity.
